@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+   <br><a href="https://3awindow.net/cua-cuon">Cửa Cuốn Bà Rịa Vũng Tàu 3A Window</a> đang là sản phẩm được nhiều người lựa chọn do có tính bảo mật. Hiện tại 3A WINDOW cung cấp các sản phẩm cửa mang tính thẩm mỹ cao. Cửa Cuốn 3A WINDOW tự hào là đơn vị cung cấp – thi công sản phẩm cửa cuốn cơ, cửa cuốn điện với nhiều thương hiệu nổi tiếng tại Bà Rịa – Vũng Tàu.
+   
+<br>Thông tin về 3A WINDOW:
+<br>Địa chỉ: 500 CMT8, P. Phước Trung, TP. Bà Rịa, Tỉnh Bà Rịa Vũng Tàu
+<br>SĐT: 0933157333
+<br>Email: 3awindow.vn@gmail.com
 
-You can use the [editor on GitHub](https://github.com/cuacuon3awindow/cuacuon3awindow.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+   <br>Chúng tôi đặt mục tiêu lọt top 3 doanh nghiệp cung cấp – thi công cửa cuốn tại thị trường khu vực Đông Nam Bộ. Dưới đây là những mẫu sản phẩm cửa cuốn mà Nhôm kính Bà Rịa Vũng Tàu 3A WINDOW cung cấp, bạn cần tìm nhà cung cấp lắp đặt – thi công cửa cuốn, 3A WINDOW sẵn sàng tư vấn, đến tận công trường để đo đạc. Đưa ra những mẫu sản phẩm cửa cuốn phù hợp với cảnh quan, thiết kế nhà, giá thành phù hợp.
+   
+      <br>Cửa cuốn được thực hiện trên cao, chính vì vậy với việc lắp đặt cửa cuốn, 3A WINDOW luôn lựa chọn các kỹ thuật viên có kinh nghiệm lâu năm để thực hiện quá trình lắp cửa cuốn chính xác hơn để cửa cuốn vận hành ổn định.Vì chỉ cần lắp đặt sai sai vai chi tiết cửa cuốn, sẽ dẫn đến việc sử dụng sau này thường xuyên xảy ra các lỗi như cửa sẽ có tiếng kêu lớn, chật răng cửa cuốn dẫn đến bị kẹt hoặc gây nguy hiểm cho chính người sử dụng. Bạn nên cần nhắc vấn đề này khi mua sản phẩm cửa cuốn nhé.
 
-### Markdown
+<br>Thông tin chi tiết:
+https://cuacuon3awindow.wordpress.com/
+http://cuacuon3awindow.moonfruit.com/
+http://www.cuacuon3awindow.sitew.org/
+https://cuacuon3awindow.bcz.com/
+https://tapas.io/cuacuon3awindow
+https://www.mixcloud.com/cuacuon3awindow/
+https://cuacuon3awindow.business.site/posts/8784567598042571668
+https://cuacuon3awindow.hpage.com/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cuacuon3awindow/cuacuon3awindow.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+   
